@@ -34,7 +34,7 @@
     <text>
         <body>
 
-            <div type="_CAPITULO III">
+            <div type="CAPITULO_III">
 
                 <head type="head">Como llegamos à la Florida</head>
 
@@ -62,7 +62,7 @@
                 Lengua, no los entendiamos: mas hacian nos muchas feñas, i amenaças, i
                 nos parefciò, que nos decian, que nos fuefemos de la Tierra; i con efto
                 nos dexaron, fin que nos hiciefen ningun impedimento, i ellos fe fueron.</p>
-            </div type>    
+            </div>    
         </body>
     </text>
 </TEI>
