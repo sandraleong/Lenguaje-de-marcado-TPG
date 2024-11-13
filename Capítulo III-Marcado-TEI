@@ -14,11 +14,20 @@
                  <title>Naufragios</title> <!-- Título del documento -->
                  <author>Alvar Nuñez Cabeza de Vaca</author>
                  <editor>Produced by Library of Congress, Stan Goodman, DP Spanish, Virginia Paque and the Online Distributed Proofreading Team</editor>
-                
+                <respSmt>
+                <resp>Estudiantes y creadoras del archivo TEI</resp>
+                <name>Luciana Silvestri</name>
+                <name>Cecilia Orti</name>
+                <name>Sandra León</name>
+                </respSmt>
+
+        
              </titleStmt>
 
             <publicationStmt>
-                <authority>Documento publicado bajo licencia Creative Commons, deberíamos añadir que tipo!</authority> <!-- Información importante para las publicaciones digitales, recuerden las unidades anterior-->
+                <authority>Documento publicado bajo licencia Creative Commons, <!--deberíamos añadir que tipo!--> </authority> 
+                <licence target="https://creativecommons.org/licenses/by/4.0/">
+                <!-- Información importante para las publicaciones digitales, recuerden las unidades anterior-->
             </publicationStmt> <!-- recuerden cerrar las etiquetas-->
    
             <sourceDesc>
@@ -27,6 +36,7 @@
                        Library of Congress 
                     </publisher> <!-- fuente del documento-->
                     <date>2000</date>
+                    Source text from Project Gutenberg, a collection of free eBooks. Original text available at: <ref target="https://www.gutenberg.org/cache/epub/11071/pg11071.txt">Project Gutenberg</ref>
                 </bibl> <!-- recomiendo siempre, para no olvidar cerrar las etiquetas, utilizar los atajos de VS Code, en este caso "CTRL + e"-->
             </sourceDesc>
         </fileDesc>
