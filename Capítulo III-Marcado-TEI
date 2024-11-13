@@ -47,25 +47,25 @@
 
             <div type="CAPITULO_III">
 
-                <head type="head">Como llegamos à la <placeName>Florida</placeName></head>
+                <head type="head">Como llegamos à la <placeName ref="https://www.openstreetmap.org/#map=7/28.053/-84.188">Florida</placeName></head>
 
                 <p>En efte mifmo dia faliò el Contador <name>Alonfo Enriquez</name>, i fe pufo en vna
                 Isla, que eftà en la mifma Baìa, i llamò à los Indios, los quales
                 vinieron, i eftuvieron con èl buen pedaço de tiempo, i por via de 
-                refcate le dieron Pefcado, i algunos pedaços de carne de Venado.</p> 
+                refcate le dieron <food>Pefcado</food>, i algunos pedaços de <food>carne de Venado</food>.</p> 
                 <p>Otro dia figuiente, que era <date>Viernes Santo</date>, <name>el Governador</name> fe defembarcò con la 
                 mas Gente, que en los Bateles que traìa, pudo facar; i como llegamos à
                 los Buhìos, ò Cafas, que haviamos vifto de los Indios, hallamòslas 
                 defamparadas, i folas, porque la Gente fe havia ido aquella noche en fus 
-                Canoas. El vno de aquellos Buhìos era mui grande, que cabrian en èl mas 
+                <transport>Canoas</transport>. El vno de aquellos Buhìos era mui grande, que cabrian en èl mas 
                 de trecientas Perfonas: los otros eran mas pequeños, i hallamos alli vna
                 Sonaja de Oro, entre las Redes.</p> 
-                <p>Otro dia <name>Governador</name> levantò Pendones por V. Mag. i tomò la pofefion de la Tierra en fu Real Nombre, prefentò
-                fus Provifiones, i fue obedefcido por <name>Governador</name>, còmo V. Mag. lo
+                <p>Otro dia <name>Governador</name> levantò Pendones por <abbr>V. Mag.</abbr> i tomò la pofefion de la Tierra en fu Real Nombre, prefentò
+                fus Provifiones, i fue obedefcido por <name>Governador</name>, còmo <abbr>V. Mag.</abbr> lo
                 mandaba. Afimifmo prefentamos nofotros las nueftras ante èl, i èl las
                 obedefciò, como en ellas fe contenia. Luego mandò, que toda la otra
-                Gente defembarcafe, i los Caballos que havian quedado, que no eran mas
-                de quarenta i dos, porque los demàs, con las grandes Tormentas, i mucho
+                Gente defembarcafe, i los <animal>Caballos</animal> que havian quedado, que no eran mas
+                de quarenta i dos, porque los demàs, con las grandes <climate>Tormentas</climate>, i mucho
                 tiempo que havian andado por la Mar, eran muertos: i eftos pocos que
                 quedaron eftaban tan flacos, i fatigados, que por el prefente poco
                 provecho podiamos tener de ellos.</p> 
